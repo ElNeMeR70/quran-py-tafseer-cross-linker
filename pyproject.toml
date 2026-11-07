@@ -1,0 +1,7 @@
+[project]
+name = "quran-py-tafseer-cross-linker"
+version = "1.0.0"
+description = "Classical Tafseer & Asbab Al-Nuzul Knowledge Graph Linker (رابط الآيات بالتفاسير المأثورة وأسباب النزول)"
+readme = "README.md"
+requires-python = ">=3.10"
+authors = [{ name = "Mahmoud ElNemer", email = "sultanelnemer@gmail.com" }]
